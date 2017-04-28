@@ -1,0 +1,17 @@
+To run the program, first open the directory and run the command "make" and then "./shell", and then you can run a mini terminal.
+
+
+
+
+1)For redirection and piping by using > or < or >> or | there has to be a space between the command and these symbols and the arguments
+
+2)At max only 21 arguments can be given per command and each argument shouldn't have more than 100 characters in it.
+
+3)Control+d and quit exits the c program shell and finally we end up with actual shell.
+
+4)Control+z returns prompt again if no foreground process.If present it pushes it into background
+
+5)Control+c exits all the background process and intermediate process
+If nothing to function it just gives another prompt
+
+6)killallbg kills all the background processes
